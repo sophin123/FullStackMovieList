@@ -4,10 +4,10 @@ Create your movies list and saved in your database. Every user will have their o
 
 How do you connect to the database ?? :)
 
-1: Create a new cluster in MongoDB.
-2: Copy the database URL 
-3. Create a new file called .env in your backend root folder
-4. Paste the following :
+1: Create a new cluster in MongoDB. </br>
+2: Copy the database URL </br>
+3. Create a new file called .env in your backend root folder </br>
+4. Paste the following : </br>
 ```
 PORT=4000 
 MONGOOSEURI="" //Paste your Database URL without quotation
